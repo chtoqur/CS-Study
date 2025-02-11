@@ -19,13 +19,13 @@ ex) [Network] 2.1 네트워크의 기초
 📌 DB
 ---
 
-📌 NetWork
+📌 Network
 ---
 
 📌 OS
 ---
 
-📌 DataStructure
+📌 Data Structure
 ---
 
 📌 Design Pattern
