@@ -3,9 +3,9 @@
 
 ## 🧑‍💻 스터디원
 
-|<a href="https://github.com/chtoqur"><img src="https://github.com/chtoqur.png" alt="chtoqur" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/hyeonzi423"><img src="https://github.com/hyeonzi423.png" alt="hyeonzi423" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/doongyeop"><img src="https://github.com/doongyeop.png" alt="doongyeop" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/gyeongmann"><img src="https://github.com/gyeongmann.png" alt="gyeongmann" style="width: 100px; height: 100px; border-radius: 50%;"></a>|
-|:---:|:---:|:---:|:---:|
-|chtoqur|hyeonzi423|doongyeop|gyeongmann|
+|<a href="https://github.com/chtoqur"><img src="https://github.com/chtoqur.png" alt="chtoqur" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/hyeonzi423"><img src="https://github.com/hyeonzi423.png" alt="hyeonzi423" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/doongyeop"><img src="https://github.com/doongyeop.png" alt="doongyeop" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/gyeongmann"><img src="https://github.com/gyeongmann.png" alt="gyeongmann" style="width: 100px; height: 100px; border-radius: 50%;"></a>|<a href="https://github.com/SioJeong"><img src="https://github.com/SioJeong.png" alt="gyeongmann" style="width: 100px; height: 100px; border-radius: 50%;"></a>|
+|:---:|:---:|:---:|:---:|:---:|
+|chtoqur|hyeonzi423|doongyeop|gyeongmann|SioJeong|
 
 <br>
 
