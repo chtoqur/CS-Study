@@ -31,7 +31,7 @@ ex) [Network] 네트워크의 기초
 ---
 [4.2 ERD와 정규화 과정](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.2%20ERD와%20정규화%20과정.md)
 <br>
-[4.5 인덱스]()  
+[4.5 인덱스](https://github.com/doongyeop/CS-Study/blob/main/Database/4.5%20%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)  
 [4.6 조인의 종류](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.6%20%EC%A1%B0%EC%9D%B8%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 <br>
 [4.7 조인의 원리](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.7%20%EC%A1%B0%EC%9D%B8%EC%9D%98%20%EC%9B%90%EB%A6%AC.md)
