@@ -41,6 +41,8 @@ ex) [Network] 네트워크의 기초
 📌 Network
 ---
 [2.1 네트워크의 기초](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.1%20네트워크의%20기초.md) <br/>
+[2.3 네트워크 기기](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.3%20네트워크%20기기.md) <br/>
+[2.4 IP 주소](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.4%20IP%20주소.md) <br/>
 
 
 📌 OS
