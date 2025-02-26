@@ -37,10 +37,10 @@ ex) [Network] 네트워크의 기초
 [4.6 조인의 종류](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.6%20조인의%20종류.md) <br/>
 [4.7 조인의 원리](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.7%20조인의%20원리.md) <br/>
 
-
 📌 Network
 ---
 [2.1 네트워크의 기초](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.1%20네트워크의%20기초.md) <br/>
+[2.2 TCP/IP 4계층 모델](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.2%20TCP%20IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8.md) <br/>
 [2.3 네트워크 기기](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.3%20네트워크%20기기.md) <br/>
 [2.4 IP 주소](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.4%20IP%20주소.md) <br/>
 
