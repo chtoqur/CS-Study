@@ -43,10 +43,14 @@ ex) [Network] 네트워크의 기초
 [2.2 TCP/IP 4계층 모델](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.2%20TCP%20IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8.md) <br/>
 [2.3 네트워크 기기](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.3%20네트워크%20기기.md) <br/>
 [2.4 IP 주소](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.4%20IP%20주소.md) <br/>
-
+[2.5 HTTP](https://github.com/hyeonzi423/CS-Study/blob/main/Network/2.5%20HTTP.md) <br/>
 
 📌 OS
 ---
+[3.1 운영체제와 컴퓨터](https://github.com/hyeonzi423/CS-Study/blob/main/Operating%20System/3.1%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0.md) <br/>
+[3.2 메모리](https://github.com/hyeonzi423/CS-Study/blob/main/Operating%20System/3.2%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md) <br/>
+[3.3 프로세스와 스레드](https://github.com/hyeonzi423/CS-Study/blob/main/Operating%20System/3.3%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md) <br/>
+[3.4 CPU 스케줄링 알고리즘](https://github.com/hyeonzi423/CS-Study/blob/main/Operating%20System/3.4%20CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) <br/>
 
 📌 Data Structure
 ---
