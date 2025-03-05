@@ -27,15 +27,20 @@ ex) [Network] 네트워크의 기초
 <br>
 
 ## ✏️ 학습 주제
-📌 DB
+
+📌 Design Pattern
 ---
-[4.1 데이터베이스의 기본](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.1%20데이터베이스의%20기본.md) <br/>
-[4.2 ERD와 정규화 과정](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.2%20ERD와%20정규화%20과정.md) <br/>
-[4.3 트랜잭션과 무결성](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.3%20트랜잭션과%20무결성.md) <br/>
-[4.4 데이터베이스의 종류](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.4%20데이터베이스의%20종류.md)<br/>
-[4.5 인덱스](https://github.com/doongyeop/CS-Study/blob/main/Database/4.5%20인덱스.md) <br/>
-[4.6 조인의 종류](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.6%20조인의%20종류.md) <br/>
-[4.7 조인의 원리](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.7%20조인의%20원리.md) <br/>
+[1.1.1 싱글톤 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.1%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.2 팩토리 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.2%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.3 전략 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.3%20%EC%A0%84%EB%9E%B5%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.4 옵저버 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.4%20%EC%98%B5%EC%A0%80%EB%B2%84%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.5 프록시 패턴과 프록시 서버](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.5%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84.md) <br />
+[1.1.6 이터레이터 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.6%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.7 노출모듈 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.7%20%EB%85%B8%EC%B6%9C%EB%AA%A8%EB%93%88%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.8 MVC 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.8%20MVC%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.9 MVP 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.9%20MVP%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.10 MVVM 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.10%20MVVM%20%ED%8C%A8%ED%84%B4.md) <br />
+
 
 📌 Network
 ---
@@ -52,20 +57,25 @@ ex) [Network] 네트워크의 기초
 [3.3 프로세스와 스레드](https://github.com/hyeonzi423/CS-Study/blob/main/Operating%20System/3.3%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md) <br/>
 [3.4 CPU 스케줄링 알고리즘](https://github.com/hyeonzi423/CS-Study/blob/main/Operating%20System/3.4%20CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) <br/>
 
+📌 DB
+---
+[4.1 데이터베이스의 기본](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.1%20데이터베이스의%20기본.md) <br/>
+[4.2 ERD와 정규화 과정](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.2%20ERD와%20정규화%20과정.md) <br/>
+[4.3 트랜잭션과 무결성](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.3%20트랜잭션과%20무결성.md) <br/>
+[4.4 데이터베이스의 종류](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.4%20데이터베이스의%20종류.md)<br/>
+[4.5 인덱스](https://github.com/doongyeop/CS-Study/blob/main/Database/4.5%20인덱스.md) <br/>
+[4.6 조인의 종류](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.6%20조인의%20종류.md) <br/>
+[4.7 조인의 원리](https://github.com/hyeonzi423/CS-Study/blob/main/Database/4.7%20조인의%20원리.md) <br/>
+
 📌 Data Structure
 ---
-[5.3 비선형 자료 구조](https://github.com/hyeonzi423/CS-Study/blob/main/Data%20Structure/5.3%20%EB%B9%84%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0.md)
+[5.1 복잡도](https://github.com/hyeonzi423/CS-Study/blob/main/Data%20Structure/5.1%20%EB%B3%B5%EC%9E%A1%EB%8F%84.md) <br />
+[5.2 선형 자료 구조](https://github.com/hyeonzi423/CS-Study/blob/main/Data%20Structure/5.2%20%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0.md) <br />
+[5.3 비선형 자료 구조](https://github.com/hyeonzi423/CS-Study/blob/main/Data%20Structure/5.3%20%EB%B9%84%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0.md) <br />
 
-📌 Design Pattern
----
-[1.1.5 프록시 패턴과 프록시 서버](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.5%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84.md) <br />
-[1.1.6 이터레이터 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.6%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md) <br />
-[1.1.7 노출모듈 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.7%20%EB%85%B8%EC%B6%9C%EB%AA%A8%EB%93%88%20%ED%8C%A8%ED%84%B4.md) <br />
-[1.1.8 MVC 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.8%20MVC%20%ED%8C%A8%ED%84%B4.md) <br />
-[1.1.9 MVP 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.9%20MVP%20%ED%8C%A8%ED%84%B4.md) <br />
-[1.1.10 MVVM 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.10%20MVVM%20%ED%8C%A8%ED%84%B4.md) <br />
 
+<!--
 📌 Algorithm
 ---
 
-
+-->
