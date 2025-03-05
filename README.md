@@ -58,6 +58,12 @@ ex) [Network] 네트워크의 기초
 
 📌 Design Pattern
 ---
+[1.1.5 프록시 패턴과 프록시 서버](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.5%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84.md) <br />
+[1.1.6 이터레이터 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.6%20%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.7 노출모듈 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.7%20%EB%85%B8%EC%B6%9C%EB%AA%A8%EB%93%88%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.8 MVC 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.8%20MVC%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.9 MVP 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.9%20MVP%20%ED%8C%A8%ED%84%B4.md) <br />
+[1.1.10 MVVM 패턴](https://github.com/hyeonzi423/CS-Study/blob/main/Design%20Pattern/1.1.10%20MVVM%20%ED%8C%A8%ED%84%B4.md) <br />
 
 📌 Algorithm
 ---
