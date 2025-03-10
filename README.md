@@ -74,8 +74,10 @@ ex) [Network] 네트워크의 기초
 [5.3 비선형 자료 구조](https://github.com/hyeonzi423/CS-Study/blob/main/Data%20Structure/5.3%20%EB%B9%84%EC%84%A0%ED%98%95%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0.md) <br />
 
 
-<!--
+
 📌 Algorithm
 ---
-
--->
+[6.1 거품 정렬](https://github.com/hyeonzi423/CS-Study/blob/main/Algorithm/6.1%20%EA%B1%B0%ED%92%88%20%EC%A0%95%EB%A0%AC.md)<br/>
+[6.2 선택 정렬](https://github.com/hyeonzi423/CS-Study/blob/main/Algorithm/6.2%20%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)<br/>
+[6.3 삽입 정렬](https://github.com/hyeonzi423/CS-Study/blob/main/Algorithm/6.3%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)<br/>
+[6.4 퀵 정렬](https://github.com/hyeonzi423/CS-Study/blob/main/Algorithm/6.4%20%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)<br/>
